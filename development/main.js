@@ -1,0 +1,1 @@
+var map = L.map('map').setVeiw([51. -505], 13);
